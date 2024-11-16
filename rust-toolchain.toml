@@ -1,0 +1,5 @@
+[toolchain]
+channel = "1.79-aarch64-apple-darwin"
+# channel = "stable"
+components = ["rustfmt"]
+targets = ["wasm32-unknown-unknown"]
